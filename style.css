@@ -1,12 +1,44 @@
 body {
-  background-color: black;
-  font-family: 'Open Sans', sans-serif;
-  text-align: center;
-  margin: auto;
+  background-image: url("https://wallpapercave.com/wp/9F4nLIq.jpg");
+  margin: 2.5cm;
   width: 90%;
   padding: 10px;
+  text-align: center;
 }
 h1 {
     font-weight: bold;
     color: gold;
 }
+h3 {
+    color: darkgoldenrod;
+}
+h4 {
+    font-weight: bold;
+    color: darkgoldenrod;
+}
+h5 {
+    color: darkgoldenrod;
+}
+hr { 
+    border: 0; 
+      height: 1px; 
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), gold, rgba(0, 0, 0, 0)); 
+}
+table {
+    background-image: url("https://wallpapercave.com/wp/9F4nLIq.jpg");
+    color: white;
+    text-align: center;
+    vertical-align: center;
+    border-collapse: collapse;
+    border-spacing: 5px;
+    padding: 10px;
+  }
+  th, td {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  table, th, td {
+    border: 2px solid darkgoldenrod;
+  }
+  
