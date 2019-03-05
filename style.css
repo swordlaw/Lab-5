@@ -6,3 +6,7 @@ body {
   width: 90%;
   padding: 10px;
 }
+h1 {
+    font-weight: bold;
+    color: gold;
+}
